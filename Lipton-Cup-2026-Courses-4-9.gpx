@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Lipton Cup SI GPX export" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Lipton Cup 2026 - Appendix D</name>
+    <desc>Keelboat Sailing Instructions v1.0, Appendix D. Approximate mark positions and rounding order only. Start, windward gate and finish omitted. Not a safe track or an autopilot route.</desc>
+  </metadata>
+  <wpt lat="-37.9088833" lon="144.9389833">
+    <name>LC26 R2</name>
+    <desc>R2. Approximate position from Appendix D.</desc>
+  </wpt>
+  <wpt lat="-37.8860000" lon="144.9398333">
+    <name>LC26 R3</name>
+    <desc>R3. Approximate position from Appendix D.</desc>
+  </wpt>
+  <wpt lat="-37.9481167" lon="144.8581500">
+    <name>LC26 OA</name>
+    <desc>OA Outer Anchorage. Approximate position from Appendix D.</desc>
+  </wpt>
+  <wpt lat="-37.9844667" lon="144.8837000">
+    <name>LC26 SG</name>
+    <desc>SG Spoil Ground. Approximate position from Appendix D.</desc>
+  </wpt>
+  <wpt lat="-37.8896667" lon="144.8808333">
+    <name>LC26 P3</name>
+    <desc>Pipeline P3. Approximate position from Appendix D.</desc>
+  </wpt>
+  <wpt lat="-37.9237667" lon="144.8863833">
+    <name>LC26 P2</name>
+    <desc>Pipeline P2. Approximate position from Appendix D.</desc>
+  </wpt>
+  <wpt lat="-37.8768667" lon="144.9146667">
+    <name>LC26 Gellibrand Shoal</name>
+    <desc>Gellibrand Shoal. Approximate position from Appendix D.</desc>
+  </wpt>
+  <wpt lat="-37.8746667" lon="144.9385000">
+    <name>LC26 SB3</name>
+    <desc>SB3. Approximate position from Appendix D.</desc>
+  </wpt>
+  <wpt lat="-37.8560667" lon="144.9415833">
+    <name>LC26 Lipton B</name>
+    <desc>Lipton B (Orange Inflatable with White Band). Approximate position from Appendix D.</desc>
+  </wpt>
+  <wpt lat="-37.8867833" lon="144.9537333">
+    <name>LC26 RMYS B</name>
+    <desc>RMYS B. Approximate position from Appendix D.</desc>
+  </wpt>
+  <wpt lat="-37.8650167" lon="144.9579833">
+    <name>LC26 RMYS A</name>
+    <desc>RMYS A. Approximate position from Appendix D.</desc>
+  </wpt>
+  <wpt lat="-37.8490833" lon="144.9350667">
+    <name>LC26 RMYS G</name>
+    <desc>RMYS G. Approximate position from Appendix D.</desc>
+  </wpt>
+  <rte>
+    <name>LC26 C4 MARKS ONLY</name>
+    <desc>Appendix D Course 4 (20 NM as published). Start, windward gate before R2 and finish omitted. Rounding: R2 Starboard; OA Starboard; P3 Starboard; P2 Starboard; P3 Starboard; Gellibrand Shoal Port; SB3 Port. Reference only; do not follow straight legs or use for autopilot.</desc>
+    <rtept lat="-37.9088833" lon="144.9389833">
+      <name>LC26 R2</name>
+      <cmt>Published-coordinate mark 1: leave to starboard.</cmt>
+      <desc>R2. Approximate position from Appendix D. Published-coordinate mark 1: leave to starboard.</desc>
+    </rtept>
+    <rtept lat="-37.9481167" lon="144.8581500">
+      <name>LC26 OA</name>
+      <cmt>Published-coordinate mark 2: leave to starboard.</cmt>
+      <desc>OA Outer Anchorage. Approximate position from Appendix D. Published-coordinate mark 2: leave to starboard.</desc>
+    </rtept>
+    <rtept lat="-37.8896667" lon="144.8808333">
+      <name>LC26 P3</name>
+      <cmt>Published-coordinate mark 3: leave to starboard.</cmt>
+      <desc>Pipeline P3. Approximate position from Appendix D. Published-coordinate mark 3: leave to starboard.</desc>
+    </rtept>
+    <rtept lat="-37.9237667" lon="144.8863833">
+      <name>LC26 P2</name>
+      <cmt>Published-coordinate mark 4: leave to starboard.</cmt>
+      <desc>Pipeline P2. Approximate position from Appendix D. Published-coordinate mark 4: leave to starboard.</desc>
+    </rtept>
+    <rtept lat="-37.8896667" lon="144.8808333">
+      <name>LC26 P3</name>
+      <cmt>Published-coordinate mark 5: leave to starboard.</cmt>
+      <desc>Pipeline P3. Approximate position from Appendix D. Published-coordinate mark 5: leave to starboard.</desc>
+    </rtept>
+    <rtept lat="-37.8768667" lon="144.9146667">
+      <name>LC26 Gellibrand Shoal</name>
+      <cmt>Published-coordinate mark 6: leave to port.</cmt>
+      <desc>Gellibrand Shoal. Approximate position from Appendix D. Published-coordinate mark 6: leave to port.</desc>
+    </rtept>
+    <rtept lat="-37.8746667" lon="144.9385000">
+      <name>LC26 SB3</name>
+      <cmt>Published-coordinate mark 7: leave to port.</cmt>
+      <desc>SB3. Approximate position from Appendix D. Published-coordinate mark 7: leave to port.</desc>
+    </rtept>
+  </rte>
+  <rte>
+    <name>LC26 C5 MARKS ONLY</name>
+    <desc>Appendix D Course 5 (18 NM as published). Start, windward gate before R2 and finish omitted. Rounding: R2 Starboard; OA Port; SG Port; R2 Port. Reference only; do not follow straight legs or use for autopilot.</desc>
+    <rtept lat="-37.9088833" lon="144.9389833">
+      <name>LC26 R2</name>
+      <cmt>Published-coordinate mark 1: leave to starboard.</cmt>
+      <desc>R2. Approximate position from Appendix D. Published-coordinate mark 1: leave to starboard.</desc>
+    </rtept>
+    <rtept lat="-37.9481167" lon="144.8581500">
+      <name>LC26 OA</name>
+      <cmt>Published-coordinate mark 2: leave to port.</cmt>
+      <desc>OA Outer Anchorage. Approximate position from Appendix D. Published-coordinate mark 2: leave to port.</desc>
+    </rtept>
+    <rtept lat="-37.9844667" lon="144.8837000">
+      <name>LC26 SG</name>
+      <cmt>Published-coordinate mark 3: leave to port.</cmt>
+      <desc>SG Spoil Ground. Approximate position from Appendix D. Published-coordinate mark 3: leave to port.</desc>
+    </rtept>
+    <rtept lat="-37.9088833" lon="144.9389833">
+      <name>LC26 R2</name>
+      <cmt>Published-coordinate mark 4: leave to port.</cmt>
+      <desc>R2. Approximate position from Appendix D. Published-coordinate mark 4: leave to port.</desc>
+    </rtept>
+  </rte>
+  <rte>
+    <name>LC26 C6 MARKS ONLY</name>
+    <desc>Appendix D Course 6 (15 NM as published). Start, windward gate before R2 and finish omitted. Rounding: R2 Starboard; OA Starboard; P3 Starboard; Gellibrand Shoal Port; SB3 Port. Reference only; do not follow straight legs or use for autopilot.</desc>
+    <rtept lat="-37.9088833" lon="144.9389833">
+      <name>LC26 R2</name>
+      <cmt>Published-coordinate mark 1: leave to starboard.</cmt>
+      <desc>R2. Approximate position from Appendix D. Published-coordinate mark 1: leave to starboard.</desc>
+    </rtept>
+    <rtept lat="-37.9481167" lon="144.8581500">
+      <name>LC26 OA</name>
+      <cmt>Published-coordinate mark 2: leave to starboard.</cmt>
+      <desc>OA Outer Anchorage. Approximate position from Appendix D. Published-coordinate mark 2: leave to starboard.</desc>
+    </rtept>
+    <rtept lat="-37.8896667" lon="144.8808333">
+      <name>LC26 P3</name>
+      <cmt>Published-coordinate mark 3: leave to starboard.</cmt>
+      <desc>Pipeline P3. Approximate position from Appendix D. Published-coordinate mark 3: leave to starboard.</desc>
+    </rtept>
+    <rtept lat="-37.8768667" lon="144.9146667">
+      <name>LC26 Gellibrand Shoal</name>
+      <cmt>Published-coordinate mark 4: leave to port.</cmt>
+      <desc>Gellibrand Shoal. Approximate position from Appendix D. Published-coordinate mark 4: leave to port.</desc>
+    </rtept>
+    <rtept lat="-37.8746667" lon="144.9385000">
+      <name>LC26 SB3</name>
+      <cmt>Published-coordinate mark 5: leave to port.</cmt>
+      <desc>SB3. Approximate position from Appendix D. Published-coordinate mark 5: leave to port.</desc>
+    </rtept>
+  </rte>
+  <rte>
+    <name>LC26 C7 MARKS ONLY</name>
+    <desc>Appendix D Course 7 (11 NM as published). Start, windward gate before R2 and finish omitted. Rounding: R2 Starboard; P2 Starboard; P3 Starboard; Gellibrand Shoal Port; SB3 Port. Reference only; do not follow straight legs or use for autopilot.</desc>
+    <rtept lat="-37.9088833" lon="144.9389833">
+      <name>LC26 R2</name>
+      <cmt>Published-coordinate mark 1: leave to starboard.</cmt>
+      <desc>R2. Approximate position from Appendix D. Published-coordinate mark 1: leave to starboard.</desc>
+    </rtept>
+    <rtept lat="-37.9237667" lon="144.8863833">
+      <name>LC26 P2</name>
+      <cmt>Published-coordinate mark 2: leave to starboard.</cmt>
+      <desc>Pipeline P2. Approximate position from Appendix D. Published-coordinate mark 2: leave to starboard.</desc>
+    </rtept>
+    <rtept lat="-37.8896667" lon="144.8808333">
+      <name>LC26 P3</name>
+      <cmt>Published-coordinate mark 3: leave to starboard.</cmt>
+      <desc>Pipeline P3. Approximate position from Appendix D. Published-coordinate mark 3: leave to starboard.</desc>
+    </rtept>
+    <rtept lat="-37.8768667" lon="144.9146667">
+      <name>LC26 Gellibrand Shoal</name>
+      <cmt>Published-coordinate mark 4: leave to port.</cmt>
+      <desc>Gellibrand Shoal. Approximate position from Appendix D. Published-coordinate mark 4: leave to port.</desc>
+    </rtept>
+    <rtept lat="-37.8746667" lon="144.9385000">
+      <name>LC26 SB3</name>
+      <cmt>Published-coordinate mark 5: leave to port.</cmt>
+      <desc>SB3. Approximate position from Appendix D. Published-coordinate mark 5: leave to port.</desc>
+    </rtept>
+  </rte>
+  <rte>
+    <name>LC26 C8 MARKS ONLY</name>
+    <desc>Appendix D Course 8 (6 NM as published). Start, windward gate before R2 and finish omitted. Rounding: R2 Starboard; Lipton B Starboard. Reference only; do not follow straight legs or use for autopilot.</desc>
+    <rtept lat="-37.9088833" lon="144.9389833">
+      <name>LC26 R2</name>
+      <cmt>Published-coordinate mark 1: leave to starboard.</cmt>
+      <desc>R2. Approximate position from Appendix D. Published-coordinate mark 1: leave to starboard.</desc>
+    </rtept>
+    <rtept lat="-37.8560667" lon="144.9415833">
+      <name>LC26 Lipton B</name>
+      <cmt>Published-coordinate mark 2: leave to starboard.</cmt>
+      <desc>Lipton B (Orange Inflatable with White Band). Approximate position from Appendix D. Published-coordinate mark 2: leave to starboard.</desc>
+    </rtept>
+  </rte>
+  <rte>
+    <name>LC26 C9 MARKS ONLY</name>
+    <desc>Appendix D Course 9 (11 NM as published). Start, windward gate before R2 and finish omitted. Rounding: R2 Port; RMYS B Port; RMYS A Port; RMYS G Port; R3 Port. Reference only; do not follow straight legs or use for autopilot.</desc>
+    <rtept lat="-37.9088833" lon="144.9389833">
+      <name>LC26 R2</name>
+      <cmt>Published-coordinate mark 1: leave to port.</cmt>
+      <desc>R2. Approximate position from Appendix D. Published-coordinate mark 1: leave to port.</desc>
+    </rtept>
+    <rtept lat="-37.8867833" lon="144.9537333">
+      <name>LC26 RMYS B</name>
+      <cmt>Published-coordinate mark 2: leave to port.</cmt>
+      <desc>RMYS B. Approximate position from Appendix D. Published-coordinate mark 2: leave to port.</desc>
+    </rtept>
+    <rtept lat="-37.8650167" lon="144.9579833">
+      <name>LC26 RMYS A</name>
+      <cmt>Published-coordinate mark 3: leave to port.</cmt>
+      <desc>RMYS A. Approximate position from Appendix D. Published-coordinate mark 3: leave to port.</desc>
+    </rtept>
+    <rtept lat="-37.8490833" lon="144.9350667">
+      <name>LC26 RMYS G</name>
+      <cmt>Published-coordinate mark 4: leave to port.</cmt>
+      <desc>RMYS G. Approximate position from Appendix D. Published-coordinate mark 4: leave to port.</desc>
+    </rtept>
+    <rtept lat="-37.8860000" lon="144.9398333">
+      <name>LC26 R3</name>
+      <cmt>Published-coordinate mark 5: leave to port.</cmt>
+      <desc>R3. Approximate position from Appendix D. Published-coordinate mark 5: leave to port.</desc>
+    </rtept>
+  </rte>
+</gpx>
